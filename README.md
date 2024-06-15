@@ -1,3 +1,3 @@
 # bootcamp-conding-future-vivo
 
-Repositórios com arquivo criado nas aulas do bootcamp.
+Repositório com arquivos criados nas aulas do bootcamp.
